@@ -1,0 +1,5 @@
+{
+  "name": "Pep Formations - Prototype V0",
+  "description": "Prototype haute-fidélité pour Pep Formations : Vitrine, Catalogue, Calendrier et Prise de contact. Stack : React, TypeScript, Tailwind CSS.",
+  "requestFramePermissions": []
+}
